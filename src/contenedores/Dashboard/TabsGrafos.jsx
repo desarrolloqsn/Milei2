@@ -59,12 +59,12 @@ const TabsGrafos = () => {
         </TabPane> 
       */}
 
-
+{/* 
     <TabPane tab="Modelos y categorías" key="6" >
 
             <GrafosModelos />
           </TabPane>
-
+ */}
 
 
 {/*
